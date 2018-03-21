@@ -10,8 +10,8 @@ body {
 }
 #rand{
     background-color: limegreen;
-    height: 150;
-    width: 100;
+    height: 100px;
+    width: 175px;
 }
 .para {
     background-color: tan;
