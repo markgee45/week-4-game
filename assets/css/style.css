@@ -5,22 +5,39 @@ h1 {
     width: 220px;
     font-size: 28px;
 }
-body {
-    background-color: mediumturquoise;
-}
+
 #rand{
     background-color: limegreen;
-    height: 100px;
+    height: 120px;
     width: 175px;
+    text-align: center;
 }
 .para {
     background-color: tan;
     columns: green;
-    width: 300px;
-    height: 300px;
-    padding: 2px;
+    width: 310px;
+    height: 310px;
+    padding: 10px;
 }
 img {
-    height: 75px;
-    width: 100px;
+    height: 150px;
+    width: 200px;
+    border-color: red;
+}    
+h5 {
+    background-color: red;
+    width: 175px;
+    padding: 5px;
+}
+#score {
+    background-color: limegreen;
+    width: 175px;
+    height: 120px;
+    text-align: center;
+}
+#wl {
+    background-color: lightskyblue;
+    line-height: 80px;
+    margin-top: 20px;
+   
 }
